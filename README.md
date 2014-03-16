@@ -1,7 +1,7 @@
 cssDOC
 ======
 
-A Sublime Text plugin that supports CSS documentation search from selections in the editor
+A Sublime Text 2/3 plugin that supports CSS documentation search from selections in the editor
 
 ## About
 
