@@ -55,7 +55,7 @@ Select a CSS entity in your editor text, then use the `CSS Doc Search` menu item
 
 ### Search with Keybinding
 
-Select a built-in Python object in your editor text, then use the following keybinding to perform the search:
+Select a CSS entity in your editor text, then use the following keybinding to perform the search:
 
 ##### CSS Documentation Search Keybinding
 
