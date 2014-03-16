@@ -5,7 +5,7 @@ A Sublime Text 2/3 plugin that supports CSS documentation search from selections
 
 ## About
 
-cssDOC allows you to search the Mozilla Developer Network CSS documentation for the selection in your editor.  If your selection matches a CSS entity, the documentation page is opened in your default browser.  If cssDOC is not able to identify the selection as a CSS entity, the default browser is opened and the Mozilla Developer Network documentation is searched with a CSS filter.
+cssDOC allows you to search the [Mozilla Developer Network CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) for the selection in your editor.  If your selection matches a CSS entity, the documentation page is opened in your default browser.  If cssDOC is not able to identify the selection as a CSS entity, the default browser is opened and the Mozilla Developer Network documentation is searched with a CSS filter.
 
 ## Install cssDOC
 
