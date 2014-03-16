@@ -1,3 +1,5 @@
 [
-	{"caption": "CSS Doc Search","command": "css_doc" }
+	{ "caption": "-" },
+	{"caption": "CSS Doc Search","command": "css_doc" },
+	{ "caption": "-", "id": "end" }
 ]
