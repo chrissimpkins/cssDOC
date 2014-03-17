@@ -1,5 +1,5 @@
 [
     {
-        "keys": ["ctrl+c"], "command": "css_doc"
+        "keys": ["ctrl+alt+c"], "command": "css_doc"
     }
 ]

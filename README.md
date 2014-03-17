@@ -60,7 +60,7 @@ Select a CSS entity in your editor text, then use the following keybinding to pe
 ##### CSS Documentation Search Keybinding
 
 ```
-Ctrl-c
+Ctrl-Alt-c
 ```
 
 ### Search with the Command Palette
@@ -76,6 +76,14 @@ Having a problem? Let's fix it.  Here are a few steps that will lead to the most
 2. Open the Sublime Text console with <code>Ctrl-`</code> or <code>View -> Show Console</code>, then run cssDOC again.  It generally provides helpful hints for problems and any exceptions that are raised will be displayed.
 
 3. Submit the issue on [the GitHub repository](https://github.com/chrissimpkins/cssDOC/issues) with as much detail as you can provide.  Please paste the console ouptut for any exceptions that are raised.
+
+## Changes
+
+v2.0.0 - changed the keybinding to `Ctrl-Alt-C` because, well, I suppose you may want to copy in a text editor, mea culpa...
+
+v1.0.1 - added horizontal dividers to the context menu item
+
+v1.0.0 - initial release
 
 ## License
 
