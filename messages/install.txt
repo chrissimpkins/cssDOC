@@ -1,0 +1,37 @@
+               ____   ___   ____
+   ___ ___ ___|  _ \ / _ \ / ___|
+  / __/ __/ __| | | | | | | |
+ | (__\__ \__ \ |_| | |_| | |___
+  \___|___/___/____/ \___/ \____|
+
+
+Hi there. You apparently have exceptionally good plugin taste.  Thanks for installing cssDOC!
+
+ABOUT
+-----
+
+cssDOC allows you to view CSS documentation for text that you CSS elements that you select (or have your cursor located in/near) in your Sublime Text editor. If cssDOC recognizes the text as a CSS element, you get the Mozilla developer network documentation page for it.  If not, cssDOC sends you to a CSS filtered search on the Mozilla developer network site (when you select the text, not on 'hover' match attempts on the text surrounding your cursor).
+
+If you have problems, check the status bar and the console for error messages.
+
+USAGE
+-----
+
+  1 ) Right Click Menu - select or locate cursor in the CSS element and use 'CSS Doc Search' in the right click menu
+  2 ) Keybinding - select or locate cursor in the CSS element and use the keys: 'Ctrl-Alt-c'
+  3 ) Command Palette - open the command palette (Cmd-Shift-P or Ctrl-Shift-P) and enter 'cssdoc', then select menu item
+
+DOCUMENTATION
+-------------
+
+  Complete documentation is available on the GitHub repo @ https://github.com/chrissimpkins/cssDOC
+
+ISSUES
+------
+
+  Find a bug? Let's fix it. Submit the problem as a new issue on the GitHub repo @ https://github.com/chrissimpkins/cssDOC/issues
+
+CONTACT
+-------
+
+  Feel free to reach out to me on Twitter @csimpkins for quick questions that don't warrant a full issue report.

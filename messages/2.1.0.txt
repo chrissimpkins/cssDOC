@@ -1,0 +1,15 @@
+               ____   ___   ____
+   ___ ___ ___|  _ \ / _ \ / ___|
+  / __/ __/ __| | | | | | | |
+ | (__\__ \__ \ |_| | |_| | |___
+  \___|___/___/____/ \___/ \____|
+
+Hey there you sexy hipster! cssDOC was updated and here's what you get for less than the price of a lube job on your fixie:
+
+v 2.1.0
+
+♥ cssDOC now supports 'hover' search.  Make sure your cursor is in, at the end of, or at the beginning of a CSS element and cssDOC will do the rest.  No need to select the entire CSS element. Launch your documentation with any of the usual approaches (right click and menu select works pretty darn well unless you like the finger yoga of the Ctrl-Alt-c keybinding).  Note that if cssDOC cannot match the parsed selection as a real CSS element, it does not perform search by default (as you would get when you select a substring in the editor yourself).  You will receive a notification of failed matches in the status bar (bottom of your editor) and in the console (accessed with Ctrl-`).  If this happens, simply select the text you are attempting to find and run cssDOC again.  This will lead to a documentation search.  This will happen with some of the esoteric CSS filter elements and whatnot because this documentation is buried in URL that don't match the keyword.
+
+---
+Did you forget how to use the plugin? Never fear... Docs are always available @ https://sublime.wbond.net/packages/cssDOC
+Find a bug? Submit it as a new issue on the GitHub repo @ https://github.com/chrissimpkins/cssDOC/issues
