@@ -49,23 +49,27 @@ Move the entire `cssDOC` directory into your Sublime Text Packages directory.
 
 ## Use cssDOC
 
+### 'Hover' Search vs. Selection Search
+
+You have the option to either select the complete CSS element substring (including pseudoelement characters like ':', '::', and '@') or to locate the cursor within the element, at the beginning of the element, or at the end of the element ('hover' search) in order to launch documentation with cssDOC.  Then, use one of the following approaches to open the docs:
+
 ### Search with Right Click Menu
 
-Select a CSS entity in your editor text, then use the `CSS Doc Search` menu item in the right click menu.
+Use the `CSS Doc Search` menu item in the right click menu.
 
 ### Search with Keybinding
 
-Select a CSS entity in your editor text, then use the following keybinding to perform the search:
+Use the following keybinding to perform the search:
 
 ##### CSS Documentation Search Keybinding
 
 ```
-Ctrl-Alt-c
+Ctrl-Alt-C
 ```
 
 ### Search with the Command Palette
 
-Select a CSS entity in your editor text then enter the keybinding to open the command palette (see description above in the Sublime Package Control section).  Type 'cssdoc' and then select `CSS Doc Search (cssDOC)`.
+Enter the keybinding to open the command palette (see description above in the Sublime Package Control section).  Type 'cssdoc' and then select `CSS Doc Search (cssDOC)`.
 
 ## Issues
 
@@ -78,6 +82,8 @@ Having a problem? Let's fix it.  Here are a few steps that will lead to the most
 3. Submit the issue on [the GitHub repository](https://github.com/chrissimpkins/cssDOC/issues) with as much detail as you can provide.  Please paste the console ouptut for any exceptions that are raised.
 
 ## Changes
+
+v2.1.0 - added 'hover' search - place cursor in/at beginning of/at end of CSS element and run cssDOC
 
 v2.0.0 - changed the keybinding to `Ctrl-Alt-C` because, well, I suppose you may want to copy in a text editor, mea culpa...
 
