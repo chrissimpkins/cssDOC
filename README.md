@@ -83,7 +83,7 @@ Having a problem? Let's fix it.  Here are a few steps that will lead to the most
 
 ## Changes
 
-v.2.1.1 - added main menu item for access to documentation & keybinding settings
+v2.1.1 - added main menu item for access to documentation & keybinding settings
 
 v2.1.0 - added 'hover' search - place cursor in/at beginning of/at end of CSS element and run cssDOC
 
