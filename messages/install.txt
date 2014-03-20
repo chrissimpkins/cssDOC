@@ -10,7 +10,7 @@ Hi there. You apparently have exceptionally good plugin taste.  Thanks for insta
 ABOUT
 -----
 
-cssDOC allows you to view CSS documentation for text that you CSS elements that you select (or have your cursor located in/near) in your Sublime Text editor. If cssDOC recognizes the text as a CSS element, you get the Mozilla developer network documentation page for it.  If not, cssDOC sends you to a CSS filtered search on the Mozilla developer network site (when you select the text, not on 'hover' match attempts on the text surrounding your cursor).
+cssDOC allows you to view CSS documentation for CSS elements that you select (or have your cursor located in/near) in your Sublime Text editor. If cssDOC recognizes the text as a CSS element, you get the Mozilla developer network documentation page for it.  If not, cssDOC sends you to a CSS filtered search on the Mozilla developer network site.
 
 If you have problems, check the status bar and the console for error messages.
 
